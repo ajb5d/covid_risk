@@ -1,0 +1,24 @@
+---
+rid: "ri.vector.main.workbook.0fa7d569-1749-4bd5-b5a6-29cff0d97339"
+repositoryRid: "ri.stemma.main.repository.3d9e2da1-3679-4a88-9d0b-5fdd6845394c"
+environmentRepositoryRid: null
+backingRepositoryRids:
+- "ri.artifacts.repository.artifactory.external-conda-forge"
+- "ri.vector.runtime.artifacts.repository"
+- "ri.artifacts.repository.artifactory.external-conda-anacondar"
+- "ri.artifacts.repository.artifactory.internal-conda-thirdparty"
+- "ri.artifacts.repository.artifactory.external-conda-bioconda"
+- "ri.foundry.ml.artifacts.repository"
+- "ri.artifacts.repository.artifactory.external-conda-anaconda"
+- "ri.artifacts.repository.crp.discovered-frobjects"
+- "ri.artifacts.repository.crp.discovered-rfilepaths"
+- "ri.foundry-ml.python.artifacts.library"
+- "ri.artifacts.repository.artifactory.internal-docker-release"
+outputFolderRid: "ri.compass.main.folder.ad1237d8-4e99-48fd-a937-042b5c5a7044"
+comparisonParentFolderRid: "ri.compass.main.folder.ee4cb579-c5fd-4406-a170-8e8327c0bc9b"
+legacyVectorLanguage: null
+autoLayoutPaths: false
+useProjectScope: true
+tokenMode: "SCOPED_TOKEN"
+duplicatedFromWorkbook: null
+workbookType: "DEFAULT"

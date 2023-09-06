@@ -1,0 +1,13 @@
+---
+rid: "ri.vector.main.workbook.66f1aa5d-cbdb-43e6-b7a3-99ab9258d2a7"
+repositoryRid: "ri.stemma.main.repository.670deb08-35db-4ce0-8fe1-77508cdca052"
+environmentRepositoryRid: null
+backingRepositoryRids: []
+outputFolderRid: "ri.compass.main.folder.84bc4477-187d-4b7e-b50b-01bfd2b5163c"
+comparisonParentFolderRid: "ri.compass.main.folder.ee4cb579-c5fd-4406-a170-8e8327c0bc9b"
+legacyVectorLanguage: null
+autoLayoutPaths: false
+useProjectScope: true
+tokenMode: "SCOPED_TOKEN"
+duplicatedFromWorkbook: null
+workbookType: "DEFAULT"
